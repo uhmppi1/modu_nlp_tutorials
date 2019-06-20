@@ -1,0 +1,17 @@
+numpy
+scipy
+jupyter
+ipykernel
+matplotlib
+Pillow
+scikit-learn
+statsmodels
+#tensorflow
+tensorflow-gpu
+keras
+pandas
+nltk
+imdbpy
+gensim
+pillow
+seaborn
